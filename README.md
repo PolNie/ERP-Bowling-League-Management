@@ -4,9 +4,7 @@ El ERP Bowling League es una solución integral de gestión diseñada para ligas
 # Carrusel de Imágenes
 <div class="carousel-container">
     <div class="carousel-slide">
-        <a href="https://www.youtube.com/watch?v=VPRjCeoBqrI&pp=ygURc2t5IGZ1bGwgb2Ygc3RhcnM%3D">
-            <img src="https://i.ytimg.com/vi/VPRjCeoBqrI/hq720.jpg?sqp=-4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC66mngvsgydVq4HM_MITPRXedOQw" alt="Vídeo de Presentación">
-        </a>
+        <a src="https://www.youtube.com/watch?v=VPRjCeoBqrI&pp=ygURc2t5IGZ1bGwgb2Ygc3RhcnM%3D"/a>
     </div>
 </div>
 
