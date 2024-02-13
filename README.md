@@ -6,9 +6,9 @@ ERP Bowling League es un sistema especializado de gestión empresarial diseñado
 # Carrusel de Imágenes
 
 <div class="carousel">
-  <img src="https://ruta_de_tu_imagen1.jpg" alt="Imagen 1">
-  <img src="https://ruta_de_tu_imagen2.jpg" alt="Imagen 2">
-  <img src="https://ruta_de_tu_imagen3.jpg" alt="Imagen 3">
+  <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/boba%20fett.png" alt="Imagen 1">
+  <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/jawa.png" alt="Imagen 2">
+  <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/stromtrooper.jfif" alt="Imagen 3">
 </div>
 
 ## Vídeo de Presentación
