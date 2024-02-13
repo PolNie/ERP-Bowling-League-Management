@@ -15,4 +15,4 @@ ERP Bowling League es un sistema especializado de gestión empresarial diseñado
 [![Vídeo de Presentación](https://i.ytimg.com/vi/VPRjCeoBqrI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC66mngvsgydVq4HM_MITPRXedOQw)](https://www.youtube.com/watch?v=VPRjCeoBqrI&pp=ygURc2t5IGZ1bGwgb2Ygc3RhcnM%3D)
 
 ## Memoria
-<!-- Inserta aquí la memoria del proyecto ERP Bowling League -->
+Para acceder a la memoria del proyecto ERP Bowling League, haz clic [aquí](https://docs.google.com/document/d/1yi0YyKdvMQGsrdw_vcsXQHrbpXQbtf0QVj99rGNSWU0).
