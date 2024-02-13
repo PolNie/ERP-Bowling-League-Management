@@ -3,11 +3,29 @@
 ## Título y Breve Descripción
 ERP Bowling League es un sistema especializado de gestión empresarial diseñado para optimizar y mejorar la administración de ligas de bolos. Ofrece herramientas para gestionar jugadores, equipos, partidos y generar informes, proporcionando una solución integral para las ligas de bolos.
 
-## Carrusel de Capturas de Pantalla
-<!-- Inserta aquí las capturas de pantalla del ERP Bowling League -->
-![Captura de pantalla 1]([link_a_la_imagen_1](https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/boba%20fett.png))
-![Captura de pantalla 2](link_a_la_imagen_2)
-![Captura de pantalla 3](link_a_la_imagen_3)
+# Carrusel de Imágenes
+
+<div class="carousel">
+  <img src="https://ruta_de_tu_imagen1.jpg" alt="Imagen 1">
+  <img src="https://ruta_de_tu_imagen2.jpg" alt="Imagen 2">
+  <img src="https://ruta_de_tu_imagen3.jpg" alt="Imagen 3">
+</div>
+
+<style>
+.carousel {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+
+.carousel img {
+  flex: 0 0 auto;
+  width: 100%;
+  scroll-snap-align: start;
+}
+</style>
+
 
 ## Vídeo de Presentación
 <!-- Inserta aquí el vídeo de presentación del ERP Bowling League -->
