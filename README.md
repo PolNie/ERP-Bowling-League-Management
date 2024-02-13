@@ -4,15 +4,15 @@ The ERP Bowling League is a comprehensive management solution designed for bowli
 # Images Preview 📷
 <div class="carousel-container">
     <div class="carousel-slide">
-        <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/">
-        <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/">
-        <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/">
-        <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/">
+        <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/imagen_1.png">
+        <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/imagen_2.png">
+        <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/imagen_3.png">
+        <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/imagen_4.png">
     </div>
 </div>
 
 ## Presentation Video 🎞
-[![Presentation Video](https://i.ytimg.com/vi/VPRjCeoBqrI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC66mngvsgydVq4HM_MITPRXedOQw)](https://www.youtube.com/watch?v=VPRjCeoBqrI&pp=ygURc2t5IGZ1bG)
+[![Presentation Video](miniatura_video)](link_video)
 
 ## Project Report 📚
 To access the ERP Bowling League project report, click [here](https://docs.google.com/document/d/1yi0YyKdvMQGsrdw_vcsXQHrbpXQbtf0QVj99rGNSWU0).
