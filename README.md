@@ -1,5 +1,5 @@
 # ERP Bowling League
-El ERP Bowling League es una solución integral de gestión diseñada para ligas de bolos, que simplifica la administración de jugadores, equipos, partidos y ligas. Con módulos especializados y funcionalidades avanzadas, el sistema ofrece una experiencia moderna y eficiente para mejorar la organización y el desarrollo de las competiciones de bolos. Con soporte multilingüe, portabilidad y un diseño intuitivo, el ERP Bowling League lleva la gestión de ligas de bolos al siguiente nivel.
+El ERP Bowling League es una solución integral de gestión diseñada para ligas de bolos, que simplifica la administración de jugadores, equipos, partidos y ligas. Con módulos especializados y funcionalidades avanzadas, el sistema ofrece una experiencia moderna y eficiente para mejorar la organización y el desarrollo de las competiciones de bolos. Con portabilidad y un diseño intuitivo, el ERP Bowling League lleva la gestión de ligas de bolos a otro nivel.
 
 # Carrusel de Imágenes
 
