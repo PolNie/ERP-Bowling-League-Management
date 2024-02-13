@@ -4,7 +4,10 @@ El ERP Bowling League es una solución integral de gestión diseñada para ligas
 # Carrusel de Imágenes
 <div class="carousel-container">
     <div class="carousel-slide">
-        <a src="https://www.youtube.com/watch?v=VPRjCeoBqrI&pp=ygURc2t5IGZ1bGwgb2Ygc3RhcnM%3D"/a>
+        <a src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/boba%20fett.png"/a>
+        <a src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/boba%20fett.png"/a>
+        <a src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/boba%20fett.png"/a>
+        <a src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/boba%20fett.png"/a>
     </div>
 </div>
 
