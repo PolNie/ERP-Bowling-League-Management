@@ -5,7 +5,7 @@ ERP Bowling League es un sistema especializado de gestión empresarial diseñado
 
 ## Carrusel de Capturas de Pantalla
 <!-- Inserta aquí las capturas de pantalla del ERP Bowling League -->
-![Captura de pantalla 1](link_a_la_imagen_1)
+![Captura de pantalla 1]([link_a_la_imagen_1](https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/boba%20fett.png))
 ![Captura de pantalla 2](link_a_la_imagen_2)
 ![Captura de pantalla 3](link_a_la_imagen_3)
 
