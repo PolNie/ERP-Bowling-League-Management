@@ -1,0 +1,16 @@
+.carousel-container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.carousel-slide {
+    display: flex;
+    width: 300%; /* Tamaño del contenedor del carrusel */
+    transition: transform 0.5s ease;
+}
+
+.carousel-slide img {
+    width: 100%;
+    height: auto;
+}
