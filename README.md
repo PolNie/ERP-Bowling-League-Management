@@ -4,7 +4,7 @@ The ERP Bowling League is a comprehensive management solution designed for bowli
 # Images Preview 📷
 <div class="carousel-container">
     <div class="carousel-slide">
-        <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/image.png" width="200" height="150">
+        <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/image.png" width="300" height="250">
         <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/image2.png" width="200" height="150">
         <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/image3.png" width="200" height="150">
         <img src="https://github.com/PolNie/ERP-Bowling-League-Management/blob/main/img/image4.png" width="200" height="150">
