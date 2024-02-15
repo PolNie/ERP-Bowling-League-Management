@@ -12,7 +12,7 @@ The ERP Bowling League is a comprehensive management solution designed for bowli
 </div>
 
 ## Video Presentation 🎞
-[![Presentation Video](miniatura_video)](https://youtu.be/CclpUtM7UB8)
+[![Presentation Video](https://i9.ytimg.com/vi/CclpUtM7UB8/mqdefault.jpg?sqp=CJSWtq4G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWChYMA8=&rs=AOn4CLDP-ZZugoQnXr1zVoP99exAFHAWxQ)](https://youtu.be/CclpUtM7UB8)
 
 ## Project Report 📚
 To access the ERP Bowling League project report, click [here](https://docs.google.com/document/d/1yi0YyKdvMQGsrdw_vcsXQHrbpXQbtf0QVj99rGNSWU0).
